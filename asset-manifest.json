@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arhero.github.io/static/css/main.20e41c49.css",
+    "main.js": "/arhero.github.io/static/js/main.df9329f2.js",
+    "static/js/787.72ab76d9.chunk.js": "/arhero.github.io/static/js/787.72ab76d9.chunk.js",
+    "index.html": "/arhero.github.io/index.html",
+    "main.20e41c49.css.map": "/arhero.github.io/static/css/main.20e41c49.css.map",
+    "main.df9329f2.js.map": "/arhero.github.io/static/js/main.df9329f2.js.map",
+    "787.72ab76d9.chunk.js.map": "/arhero.github.io/static/js/787.72ab76d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e41c49.css",
+    "static/js/main.df9329f2.js"
+  ]
+}
